@@ -9,6 +9,8 @@
     2. https://healthdata.gov
     3. https://data.cdc.gov/
     
+** The ipynb file is worksheet_healthcare_weeks.ipynb used to prepare all the charts and graphs **    
+    
 # Description:
 
 ** The health awareness and the stability on the emloyees working in tech and non tech sectors plays critical role on the stability and success of the company, in this project a detail study of the mental stability of the employees in tech and non tech sectors are covered, also the employees visiting the hospitals/doctors for mental issues are gone in details and comparative charts are provided and stats/metrics report created across tech and non tech firm.
